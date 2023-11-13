@@ -29,7 +29,7 @@ ui = NodePath("../UI")
 [node name="Walls" type="Node" parent="."]
 
 [node name="UpperWall" parent="Walls" instance=ExtResource("3_qo1ho")]
-position = Vector2(0, -334)
+position = Vector2(0, -352)
 collision_layer = 4
 
 [node name="LeftWall" parent="Walls" instance=ExtResource("3_qo1ho")]
