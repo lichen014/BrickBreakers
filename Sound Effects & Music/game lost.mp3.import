@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cle8ybrtb8ntu"
+path="res://.godot/imported/game lost.mp3-8cb6ff1009fc42afff3771c92add22b3.mp3str"
+
+[deps]
+
+source_file="res://Sound Effects & Music/game lost.mp3"
+dest_files=["res://.godot/imported/game lost.mp3-8cb6ff1009fc42afff3771c92add22b3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
