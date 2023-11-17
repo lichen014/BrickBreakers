@@ -12,10 +12,6 @@ func set_lifes(lifes: int):
 
 func game_over():
 	game_lost_container.show()
-	$Audio_player.stop()
-	
-func new_game():
-	$Audio_player.play()
 
 func _on_game_lost_button_pressed():
 	get_tree().reload_current_scene()
