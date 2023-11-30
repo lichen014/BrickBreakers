@@ -7,6 +7,8 @@ class_name UI
 @onready var level_won_container = $LevelWonContainer
 @onready var audio_player = $AudioStreamPlayer
 
+@onready var music = $"../MusicPack/Music"
+
 func set_lifes(lifes: int):
 	lifes_label.text = "Lifes: %d" % lifes
 
