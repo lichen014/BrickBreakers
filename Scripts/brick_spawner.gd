@@ -7,6 +7,7 @@ const ROWS = 6
 
 @onready var ball = $"../Ball" as Ball
 @onready var ui = $"../UI" as UI
+@onready var music = $"../MusicPack/Music"
 
 @export var brick_scene: PackedScene
 @export var margin: Vector2 = Vector2(8,8)
@@ -18,6 +19,7 @@ var brick_count = 0
 func _ready():
 	print(LevelDefinitions)
 	spawn_from_defintion(LevelDefinitions.get_current_level())
+	music.play()
 
 func spawn():
 	var test_brick = brick_scene.instantiate() as Brick

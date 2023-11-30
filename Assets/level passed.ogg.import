@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bg2sfyo18cays"
+path="res://.godot/imported/level passed.ogg-024d8d9b6bbdb3b6c0da98dd506eca44.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/level passed.ogg"
+dest_files=["res://.godot/imported/level passed.ogg-024d8d9b6bbdb3b6c0da98dd506eca44.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

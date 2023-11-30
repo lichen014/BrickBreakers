@@ -18,7 +18,6 @@ config/icon="res://Assets/icon.svg"
 [autoload]
 
 LevelDefinitions="*res://Scripts/level_definitions.gd"
-Music="*res://music.tscn"
 
 [display]
 
