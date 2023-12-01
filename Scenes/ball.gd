@@ -17,10 +17,10 @@ var last_collider_id
 
 @onready var collision_shape_2d = $CollisionShape2D
 
+@onready var brick_explosion = $"brick explosion"
+
 @onready var ball_hitting_brick = $"../MusicPack/BallHittingBrick"
 @onready var ball_hitting_walls = $"../MusicPack/BallHittingWalls"
-
-
 
 func _ready():
 	ui.set_lifes(lifes)
@@ -42,6 +42,7 @@ func _physics_process(delta):
 	
 	elif (collider is Brick):
 		ball_collision(collider)
+		brick_explosion.emitting = true
 		ball_hitting_brick.play()
 		
 	else:
