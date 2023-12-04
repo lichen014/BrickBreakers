@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=3 uid="uid://dcsfg57wn0xu7"]
+
+[ext_resource type="Texture2D" uid="uid://dr0ttxfoic7l5" path="res://Assets/Explosion_Sheet.png" id="1_p6f7e"]
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_kbptk"]
+emission_shape = 1
+emission_sphere_radius = 90.0
+particle_flag_disable_z = true
+gravity = Vector3(1, 1, 1)
+orbit_velocity_min = 0.0
+orbit_velocity_max = 0.0
+
+[node name="BrickExplosion" type="GPUParticles2D"]
+emitting = false
+amount = 10
+process_material = SubResource("ParticleProcessMaterial_kbptk")
+texture = ExtResource("1_p6f7e")
+lifetime = 0.15
+one_shot = true

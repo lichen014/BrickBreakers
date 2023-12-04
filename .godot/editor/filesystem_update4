@@ -5,5 +5,4 @@ res://music.tscn
 res://Scenes/death_zone.tscn
 res://Scenes/paddle.tscn
 res://Scenes/brick.tscn
-res://Scripts/level_definitions.gd
-res://Scripts/ui.gd
+res://brick_explosion.tscn

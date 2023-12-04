@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dnhwegitrdkui"
+path="res://.godot/imported/ball hitting walls.ogg-2335993bda9935f1d3168b938bf074c1.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/ball hitting walls.ogg"
+dest_files=["res://.godot/imported/ball hitting walls.ogg-2335993bda9935f1d3168b938bf074c1.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
