@@ -3,19 +3,17 @@ extends Node
 var current_level = 1
 
 var level_1 = [
-	[0,1,0]
+	[1,1,1]
 ]
 
 var level_2 = [
-	[1,1,1,1,1],
-	[1,1,1,1,1],
-	[1,1,1,1,1],
-	[1,1,1,1,1],
-	[1,1,1,1,1]
+	[1,1,1],
+	[1,1,1],
+	[1,1,1]
 ]
 
 var level_3 = [
-	[0,1,0]
+	[2,1,2]
 ]
 
 var levels = [level_1, level_2, level_3]
