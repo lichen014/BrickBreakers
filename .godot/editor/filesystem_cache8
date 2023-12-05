@@ -1,43 +1,41 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1701725127
-brick_explosion.tscn::PackedScene::7337114463807912828::1701725116::0::1::::<><>::uid://dr0ttxfoic7l5::::res://Assets/Explosion_Sheet.png
-music.tscn::PackedScene::7735469062438613259::1701725116::0::1::::<><>::
-::res://Assets/::1701725014
-ball hitting brick.ogg::AudioStreamOggVorbis::8405957597563065597::1701467118::1701724994::1::::<><>::
-ball hitting walls.ogg::AudioStreamOggVorbis::8087510908053281504::1701467685::1701724994::1::::<><>::
-Ball.png::CompressedTexture2D::7113742415800555843::1692354175::1699911896::1::::<><>::
-Brick-Blue.png::CompressedTexture2D::8979348304139843021::1692354175::1699911896::1::::<><>::
-Brick-Gray.png::CompressedTexture2D::8342798054112985360::1692354175::1699911896::1::::<><>::
-Brick-Green.png::CompressedTexture2D::1216209181894678716::1692354175::1699911896::1::::<><>::
-Brick-Orange.png::CompressedTexture2D::5829837668562829217::1692354175::1699911896::1::::<><>::
-Brick-Red.png::CompressedTexture2D::7407871970170932163::1692354175::1699911896::1::::<><>::
-Brick-Yellow.png::CompressedTexture2D::5772095262280393697::1692354175::1699911896::1::::<><>::
-Explosion_Sheet.png::CompressedTexture2D::8405270606132081956::1701469335::1701725003::1::::<><>::
-game lost.mp3::AudioStreamMP3::3472835626162588203::1701203928::1701382525::1::::<><>::
-GameWon.mp3::AudioStreamMP3::3726770668252342694::1701382426::1701725014::1::::<><>::
-GameWon.ogg::AudioStreamOggVorbis::6574246756437236906::1701382787::1701382787::1::::<><>::
-icon.svg::CompressedTexture2D::7753658774376271310::1692354175::1699911896::1::::<><>::
-level passed.ogg::AudioStreamOggVorbis::2864395063133394978::1701382859::1701382859::1::::<><>::
-level passed.wav::AudioStreamWAV::4914178376415390844::1701203928::1701382525::1::::<><>::
-music.mp3::AudioStreamMP3::5647747446569978560::1701203928::1701382525::1::::<><>::
-music.ogg::AudioStreamOggVorbis::3639799840229026477::1701204090::1701382525::1::::<><>::
-Paddle.png::CompressedTexture2D::5477542658004981000::1692354175::1699911896::1::::<><>::
-VT323-Regular.ttf::FontFile::4453843302194638347::1692354175::1699911896::1::::<><>::
-::res://editor/::1699911846
-::res://Scenes/::1701725127
-ball.gd::GDScript::-1::1701724545::0::1::::Ball<>CharacterBody2D<>::
-ball.tscn::PackedScene::7397743311382796515::1699911452::0::1::::<><>::uid://c8l7ke1ygg27h
-brick.tscn::PackedScene::2457941343637917893::1701725116::0::1::::<><>::uid://d06ws4g0pu0q0::::res://Assets/Brick-Blue.png<>res://Scripts/brick.gd
-death_zone.tscn::PackedScene::7919615241395559668::1701725133::0::1::::<><>::res://Scripts/death_zone.gd
-main.tscn::PackedScene::2708378672280257525::1701725114::0::1::::<><>::uid://c3oeu577w187v::::res://Scenes/paddle.tscn<>uid://ddnr0s0sc1sx4::::res://Scenes/ball.tscn<>uid://dojuvo5c8l6rk::::res://Scenes/wall.tscn<>uid://dcsfg57wn0xu7::::res://brick_explosion.tscn<>uid://dk3k52jw8b6gu::::res://Scenes/death_zone.tscn<>uid://m6rsa8n8lm0g::::res://Scenes/ui.tscn<>res://Scripts/brick_spawner.gd<>uid://bbav61wfuxynt::::res://Scenes/brick.tscn<>uid://bpqjdiivnrjxb::::res://Assets/game lost.mp3<>uid://c0wu5bn2enl27::::res://Assets/GameWon.ogg<>uid://bg2sfyo18cays::::res://Assets/level passed.ogg<>uid://dr055m5ml8r5f::::res://Assets/ball hitting brick.ogg<>uid://dnhwegitrdkui::::res://Assets/ball hitting walls.ogg
-paddle.tscn::PackedScene::6767310488275749257::1701725116::0::1::::<><>::uid://ckbmlemetbql1::::res://Assets/Paddle.png<>res://Scripts/paddle.gd
-ui.tscn::PackedScene::907326218813312080::1701725114::0::1::::<><>::res://Scripts/ui.gd<>uid://b4pqfbvte11k6::::res://Assets/VT323-Regular.ttf
-wall.tscn::PackedScene::8161737885132099824::1699911452::0::1::::<><>::
-::res://Scripts/::1701725079
-brick.gd::GDScript::-1::1692354175::0::1::::Brick<>RigidBody2D<>::
-brick_spawner.gd::GDScript::-1::1701381794::0::1::::BrickSpawner<>Node<>::
-death_zone.gd::GDScript::-1::1692354175::0::1::::DeathZone<>Area2D<>::
-level_definitions.gd::GDScript::-1::1701466442::0::1::::<>Node<>::
-paddle.gd::GDScript::-1::1700258128::0::1::::Paddle<>RigidBody2D<>::
-ui.gd::GDScript::-1::1701467252::0::1::::UI<>CanvasLayer<>::
-::res://text_editor_themes/::1699911846
+::res://::1701806440
+brick_explosion.tscn::PackedScene::7337114463807912828::1701806419::0::1::::<><>::uid://dr0ttxfoic7l5::::res://Assets/Explosion_Sheet.png
+music.tscn::PackedScene::7735469062438613259::1701806419::0::1::::<><>::
+::res://Assets/::1701806419
+ball hitting brick.ogg::AudioStreamOggVorbis::8405957597563065597::1701806419::1701806419::1::::<><>::
+ball hitting walls.ogg::AudioStreamOggVorbis::8087510908053281504::1701806419::1701806419::1::::<><>::
+Ball.png::CompressedTexture2D::7113742415800555843::1701806419::1701806419::1::::<><>::
+Brick-Blue.png::CompressedTexture2D::8979348304139843021::1701806419::1701806419::1::::<><>::
+Brick-Gray.png::CompressedTexture2D::8342798054112985360::1701806419::1701806419::1::::<><>::
+Brick-Green.png::CompressedTexture2D::1216209181894678716::1701806419::1701806419::1::::<><>::
+Brick-Orange.png::CompressedTexture2D::5829837668562829217::1701806419::1701806419::1::::<><>::
+Brick-Red.png::CompressedTexture2D::7407871970170932163::1701806419::1701806419::1::::<><>::
+Brick-Yellow.png::CompressedTexture2D::5772095262280393697::1701806419::1701806419::1::::<><>::
+Explosion_Sheet.png::CompressedTexture2D::8405270606132081956::1701806419::1701806419::1::::<><>::
+game lost.mp3::AudioStreamMP3::3472835626162588203::1701806419::1701806419::1::::<><>::
+GameWon.mp3::AudioStreamMP3::3726770668252342694::1701806419::1701806419::1::::<><>::
+GameWon.ogg::AudioStreamOggVorbis::6574246756437236906::1701806419::1701806419::1::::<><>::
+icon.svg::CompressedTexture2D::7753658774376271310::1701806419::1701806419::1::::<><>::
+level passed.ogg::AudioStreamOggVorbis::2864395063133394978::1701806419::1701806419::1::::<><>::
+level passed.wav::AudioStreamWAV::4914178376415390844::1701806419::1701806419::1::::<><>::
+music.mp3::AudioStreamMP3::5647747446569978560::1701806419::1701806419::1::::<><>::
+music.ogg::AudioStreamOggVorbis::3639799840229026477::1701806419::1701806419::1::::<><>::
+Paddle.png::CompressedTexture2D::5477542658004981000::1701806419::1701806419::1::::<><>::
+VT323-Regular.ttf::FontFile::4453843302194638347::1701806419::1701806419::1::::<><>::
+::res://Scenes/::1701806419
+ball.gd::GDScript::-1::1701806419::0::1::::Ball<>CharacterBody2D<>::
+ball.tscn::PackedScene::7397743311382796515::1701806419::0::1::::<><>::uid://c8l7ke1ygg27h::::res://Assets/Ball.png<>res://Scenes/ball.gd
+brick.tscn::PackedScene::2457941343637917893::1701806419::0::1::::<><>::uid://d06ws4g0pu0q0::::res://Assets/Brick-Blue.png<>res://Scripts/brick.gd
+death_zone.gd::GDScript::-1::1701806419::0::1::::DeathZone<>Area2D<>::
+death_zone.tscn::PackedScene::7919615241395559668::1701806419::0::1::::<><>::res://Scenes/death_zone.gd
+main.tscn::PackedScene::2708378672280257525::1701806419::0::1::::<><>::uid://c3oeu577w187v::::res://Scenes/paddle.tscn<>uid://ddnr0s0sc1sx4::::res://Scenes/ball.tscn<>uid://dojuvo5c8l6rk::::res://Scenes/wall.tscn<>uid://dcsfg57wn0xu7::::res://brick_explosion.tscn<>uid://dk3k52jw8b6gu::::res://Scenes/death_zone.tscn<>uid://m6rsa8n8lm0g::::res://Scenes/ui.tscn<>res://Scripts/brick_spawner.gd<>uid://bbav61wfuxynt::::res://Scenes/brick.tscn<>uid://bpqjdiivnrjxb::::res://Assets/game lost.mp3<>uid://c0wu5bn2enl27::::res://Assets/GameWon.ogg<>uid://bg2sfyo18cays::::res://Assets/level passed.ogg<>uid://dr055m5ml8r5f::::res://Assets/ball hitting brick.ogg<>uid://dnhwegitrdkui::::res://Assets/ball hitting walls.ogg
+paddle.tscn::PackedScene::6767310488275749257::1701806419::0::1::::<><>::uid://ckbmlemetbql1::::res://Assets/Paddle.png<>res://Scripts/paddle.gd
+ui.tscn::PackedScene::907326218813312080::1701806419::0::1::::<><>::res://Scripts/ui.gd<>uid://b4pqfbvte11k6::::res://Assets/VT323-Regular.ttf
+wall.tscn::PackedScene::8161737885132099824::1701806419::0::1::::<><>::
+::res://Scripts/::1701806419
+brick.gd::GDScript::-1::1701806419::0::1::::Brick<>RigidBody2D<>::
+brick_spawner.gd::GDScript::-1::1701806419::0::1::::BrickSpawner<>Node<>::
+level_definitions.gd::GDScript::-1::1701806419::0::1::::<>Node<>::
+paddle.gd::GDScript::-1::1701806419::0::1::::Paddle<>RigidBody2D<>::
+ui.gd::GDScript::-1::1701806419::0::1::::UI<>CanvasLayer<>::
