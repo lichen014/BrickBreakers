@@ -7,4 +7,3 @@ res://Scenes/paddle.tscn
 res://Scenes/brick.tscn
 res://brick_explosion.tscn
 res://Scripts/level_definitions.gd
-res://Scripts/ui.gd
